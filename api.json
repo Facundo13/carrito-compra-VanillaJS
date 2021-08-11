@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Mac",
+      "thumbnailUrl": "https://picsum.photos/id/0/600"
+    },
+    {
+      "precio": 80,
+      "id": 2,
+      "title": "Teclado+mouse",
+      "thumbnailUrl": "https://picsum.photos/id/366/600"
+    },
+    {
+      "precio": 250,
+      "id": 3,
+      "title": "Celular",
+      "thumbnailUrl": "https://picsum.photos/id/160/600"
+    },
+    {
+      "precio": 180,
+      "id": 4,
+      "title": "Camara",
+      "thumbnailUrl": "https://picsum.photos/id/250/600"
+    },
+    {
+      "precio": 120,
+      "id": 5,
+      "title": "E-Book",
+      "thumbnailUrl": "https://picsum.photos/id/367/600"
+    },
+    {
+      "precio": 40,
+      "id": 6,
+      "title": "Libro",
+      "thumbnailUrl": "https://picsum.photos/id/24/600"
+    }
+  ]
